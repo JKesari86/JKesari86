@@ -1,6 +1,6 @@
 # Hello, I'm Jorge Arias 👋 
 
-👻🐦‍⬛🐈‍⬛ Welcome to my profile 🧙🏽‍♂️🔮⚗️
+🐦‍⬛👻🐈‍⬛ Welcome to my profile 🧙🏽‍♂️🔮⚗️
 ## 🚀 Main Skills:
 - **Languages**: JavaScript, Python, HTML, CSS
 - **Frameworks**: React, Node.js, Flask
