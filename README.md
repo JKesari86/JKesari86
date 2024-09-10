@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello, I'm Jorge Arias 👋
 
-<!--
-**JKesari86/JKesari86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fullstack developer specializing in JavaScript, React, Node.js, Flask, Python and SQL. I'm passionate about solving problems and creating web applications that are both useful and scalable.
 
-Here are some ideas to get you started:
+## 🚀 Main Skills:
+- **Languages**: JavaScript, Python, HTML, CSS
+- **Frameworks**: React, Node.js, Flask
+- **Databases**: MySQL, PostreSQL
+- **Development Tools**: Git, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <!-- ## 🌱 Currently Learning:
+- [Technologies or tools you're currently learning]
+
+## 💼 Highlighted Projects:
+- [Project Name]: [Brief description] - [Link to repo]
+- [Another Highlighted Project]: [Brief description] - [Link to repo] -->
+
+## 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/jorge-arias-266260262/)
+
