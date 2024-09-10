@@ -1,7 +1,6 @@
-# Hello, I'm Jorge Arias 👋
+# Hello, I'm Jorge Arias 👋 
 
-I'm a fullstack developer specializing in JavaScript, React, Node.js, Flask, Python and SQL. I'm passionate about solving problems and creating web applications that are both useful and scalable.
-
+👻🐦‍⬛🐈‍⬛ Welcome to my profile 🧙🏽‍♂️🔮⚗️
 ## 🚀 Main Skills:
 - **Languages**: JavaScript, Python, HTML, CSS
 - **Frameworks**: React, Node.js, Flask
