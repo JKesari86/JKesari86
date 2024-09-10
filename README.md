@@ -4,7 +4,7 @@
 ## 🚀 Main Skills:
 - **Languages**: JavaScript, Python, HTML, CSS
 - **Frameworks**: React, Node.js, Flask
-- **Databases**: MySQL, PostreSQL
+- **Databases**: MySQL, PostgreSQL
 - **Development Tools**: Git, Postman
 
  <!-- ## 🌱 Currently Learning:
